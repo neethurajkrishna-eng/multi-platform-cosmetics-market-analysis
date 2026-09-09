@@ -106,7 +106,7 @@ Multi-Platform-Cosmetics-Market-Analysis/
 └── 09_Cross_Platform_PowerBI/
     ├── crossplatform_dashboard.pbix
     └── crossplatform_dashboard.png
-
+```
 
 ## Data Description
 
