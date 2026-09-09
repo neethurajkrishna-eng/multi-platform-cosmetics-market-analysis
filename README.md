@@ -71,6 +71,7 @@ The scraped datasets were cleaned and prepared for exploratory analysis and visu
 
 ## Repository Structure
 
+```text
 Multi-Platform-Cosmetics-Market-Analysis/
 │
 ├── README.md
@@ -103,8 +104,9 @@ Multi-Platform-Cosmetics-Market-Analysis/
 │   └── cross_platform_analysis.ipynb
 │
 └── 09_Cross_Platform_PowerBI/
-    ├── cross_platform_dashboard.pbix
-    └── cross_platform_dashboard.png
+    ├── crossplatform_dashboard.pbix
+    └── crossplatform_dashboard.png
+
 
 ## Data Description
 
@@ -187,7 +189,7 @@ The Nykaa Power BI dashboard presents insights into product assortment, pricing,
 
 The cross-platform Power BI dashboard compares Nykaa and Myntra across product assortment, pricing, discounts, ratings, brands, and categories.
 
-![Cross-Platform Power BI Dashboard](09_Cross_Platform_PowerBI/cross_platform_dashboard.png)
+![Cross-Platform Power BI Dashboard](09_Cross_Platform_PowerBI/crossplatform_dashboard.png)
 
 ## Key Insights
 
@@ -214,6 +216,7 @@ Average ratings are almost identical between the platforms: 4.26 on Myntra and 4
 ### Relationships
 
 Rating count has almost no linear relationship with rating on either platform. Original price also shows little relationship with discount percentage.
+
 ## Limitations
 
 - The analysis is based on scraped product listings available at the time of data collection.
